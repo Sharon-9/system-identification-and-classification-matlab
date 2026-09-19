@@ -3,6 +3,8 @@
 Course project developed for **Learning and Estimation of Dynamical Systems**  
 MSc in Automation Engineering — University of Bologna
 
+**Course instructor:** Prof. Roberto Diversi
+
 The project contains two exercises implemented in MATLAB:
 
 - **AR system identification and validation**
@@ -118,8 +120,3 @@ As a result, the repository preserves the original code, figures and outputs, bu
 ## Notes
 
 This repository contains the student-developed solution and supporting MATLAB functions only. Course-provided data-generation utilities and assignment files are intentionally excluded.
-
-Course project developed for **Learning and Estimation of Dynamical Systems**  
-MSc in Automation Engineering — University of Bologna
-
-**Course instructor:** Prof. Roberto Diversi
